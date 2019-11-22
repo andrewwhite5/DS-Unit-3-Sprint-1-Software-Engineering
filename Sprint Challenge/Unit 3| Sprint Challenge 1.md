@@ -262,14 +262,14 @@ career here, you'll have to answer the following:
 - What, in your opinion, is an important part of code reviews? That is, what is
   something you pay attention to when you review code, and that you appreciate
   when others do the same for your code?
-        - Finding ways to simplify the code and create functions where useful is
-          really helpful. This is something I strive to pay attention to and try
-          to help others do as well.
+    - Finding ways to simplify the code and create functions where useful is
+      really helpful. This is something I strive to pay attention to and try
+      to help others do as well.
 
 - We have an awful lot of computers here, and it gets pretty confusing with
   slightly different things running on all of them. How could containers help us
   improve this situation?
-        - Could help to better organize and structure the different groups.
+    - Could help to better organize and structure the different groups.
 
 Answer both of these questions (baseline ~5 sentences) here in text.
 
